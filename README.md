@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @damceee
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to code.
-- 🧭 I'm currently an experience in Python.
-- 💞️ I’m looking to collaborate on nothing lol.
+- 🧭 I'm currently an experienced in Python, and I make simple resource packs for Minecraft.
 - 😄 Pronouns: he/him
   
 <!---
